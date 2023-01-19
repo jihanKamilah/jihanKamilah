@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **kamilahjihan052@gmail.com**
 
+- 🗂 Here are some projects I have compiled in my portfolio : https://drive.google.com/file/d/1rtSwaERGMDCU2aNQZ73ACFYB8K7ox5bJ/view?usp=sharing
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jihan kamilah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jihan kamilah" height="30" width="40" /></a>
