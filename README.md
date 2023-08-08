@@ -9,9 +9,12 @@
 
 - 🗂 Here are some projects I have compiled in my portfolio : https://drive.google.com/file/d/1rtSwaERGMDCU2aNQZ73ACFYB8K7ox5bJ/view?usp=sharing
 
+<h3>I hope you will check out my medium, there are many articles about my projects: https://medium.com/@jihankamilah</h3>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jihan kamilah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jihan kamilah" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jihan kamilah" target="blank"><img align="center" src="https://github.com/jihanKamilah/jihanKamilah/assets/79673174/6b970a03-b32b-4708-b572-51535f89bea1" alt="jihan kamilah" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
