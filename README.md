@@ -1,15 +1,15 @@
 <h3 align="center">Hi Everyone, I'm Jihan Kamilah 👋</h3>
-<h5>I am an undergraduate informatics student who is interested in learning new knowledge and skills to put into practical experience. I love to create and share my projects especially about Data Analytics, Machine Learning and UI/UX Design.</h5>
+<h5>I'm seeking opportunities to apply my analytical and technical skills in the fields of Data Analysis, Data Science, and Business Intelligence.</h5>
 
-- 🔭 I’m currently an Informatics Student **at Universitas Pembangunan "Nasional" Veteran Jakarta, Indonesia.**
+- 🎓 I'm a Bachelor of Informatics from UPN Veteran Jakarta**
 
-- 🌱 I’m currently learning about **Data Analytics, Machine Learning, and UI/UX Design.**
+- 🌱 I’m currently learning about **Data Analytics, Data Science, and UI/UX Design.**
 
-- 📫 How to reach me **kamilahjihan052@gmail.com**
+- 📫 How to reach me **kamilahjihan052@gmail.com** or **[LinkedIn](https://www.linkedin.com/in/jihan-kamilah/)**
 
 - 🗂 Here are some projects I have compiled in my portfolio : https://drive.google.com/file/d/1rtSwaERGMDCU2aNQZ73ACFYB8K7ox5bJ/view?usp=sharing
 
-<h3>I hope you will check out my medium, there are many articles about my projects: https://medium.com/@jihankamilah</h3>
+<h3>I hope you will check out my medium, there are many articles about my UI/UX Design projects: https://medium.com/@jihankamilah</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
