@@ -9,7 +9,7 @@
 
 - 🗂 Here are some projects I have compiled in my portfolio : https://drive.google.com/file/d/1rtSwaERGMDCU2aNQZ73ACFYB8K7ox5bJ/view?usp=sharing
 
-<h3>I hope you will check out my medium, there are many articles about my UI/UX Design projects: https://medium.com/@jihankamilah</h3>
+<h3>I hope you will check out my medium, there are many articles about my Data Analytics & Data Science projects: https://medium.com/@jihankamilah</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
